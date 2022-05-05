@@ -1,0 +1,28 @@
+body{
+    background-color: cornsilk;
+    width : 900px;
+    margin : auto;
+    text-align : center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size : 52px;
+    text-align : center;
+    color: chocolate;
+    text-transform : uppercase;
+}
+#label {
+    font-size : 28px;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+#frm{
+    margin-top: 60px;
+}
+.liste{
+    margin-top: 60px;
+}
+.title{
+    color: peru;
+    font-size : 18px;
+}
